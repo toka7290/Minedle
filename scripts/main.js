@@ -51,8 +51,6 @@ GameTest.registerAsync("Minedle", "game", async (test) => {
     }
   }
 
-  // debug
-  answer = "paint";
   // 文字単位の配列
   let answer_arr = answer.split("");
 
