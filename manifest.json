@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Minedle",
+    "description": "Wordle for Minecraft\nThanks to @powerlanguish for creating this game masterpiece wordle.",
+    "version": [1, 0, 0],
+    "uuid": "720f8c40-2a44-4bcf-a56e-c8353c056dff",
+    "min_engine_version": [1, 18, 20]
+  },
+  "modules": [
+    {
+      "type": "javascript",
+      "description": "GameTest module",
+      "version": [1, 0, 0],
+      "uuid": "28fe0093-2fb5-4b97-8e84-852412548e44",
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": ["toka7290"],
+    "license": "MIT"
+  },
+  "dependencies": [
+    {
+      "uuid": "b26a4d4c-afdf-4690-88f8-931846312678",
+      "version": [0, 1, 0]
+    },
+    {
+      "uuid": "6f4b6893-1bb6-42fd-b458-7fa3d0c89616",
+      "version": [0, 1, 0]
+    },
+    {
+      "uuid": "2BD50A27-AB5F-4F40-A596-3641627C635E",
+      "version": [0, 1, 0]
+    }
+  ]
+}
