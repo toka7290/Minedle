@@ -14,6 +14,8 @@ Runs on minecraft gametest ui
 
 ## Setup
 
+The game can be played with version 1.18.20 or later.
+
 1. Import the pack into Minecraft.
 2. Make sure that the Gametest Framework toggle is turned on in the world creation/editing screen.
 3. Creative mode is the recommended game mode.
@@ -29,6 +31,8 @@ Type the command `/gametest run Minedle:game` to start Minedle.
 After that
 
 Type `/gametest runthis` or click the button on the command block.
+
+Press \[x\] in the upper right corner to stop the game.
 
 Enter a 5 letter word in the input box and click \[Submit\] to confirm.
 
